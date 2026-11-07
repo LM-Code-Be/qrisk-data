@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "blocklist": {
+    "version": "2026.11.07",
+    "url": "https://lm-code-be.github.io/qrisk-data/blocklist.qrbl",
+    "sha256": "c9ba332935befc74b4883e4dc7c39a07d196ede411619be0d455a474e72b42bf",
+    "size": 3082356,
+    "minAppBuild": 1
+  },
+  "alerts": {
+    "version": "26e8f17e7d2bd3ed",
+    "url": "https://lm-code-be.github.io/qrisk-data/alerts.json",
+    "sha256": "26e8f17e7d2bd3edf55d4d241a9bc09fab22683187f772caa660bd310280d2c9",
+    "size": 34,
+    "minAppBuild": 1
+  },
+  "quiz": {
+    "version": "f0715161b388a852",
+    "url": "https://lm-code-be.github.io/qrisk-data/quiz.json",
+    "sha256": "f0715161b388a85221507838aead2408a973cb93112a422f54584dfca7f95bc5",
+    "size": 37,
+    "minAppBuild": 1
+  }
+}
